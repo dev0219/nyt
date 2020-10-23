@@ -1,0 +1,49 @@
+[{
+        "name": "Aerobic",
+        "reps": 50,
+        "calories": 20,
+        "result": 1000
+    },
+    {
+        "name": "Anaerobic",
+        "reps": 40,
+        "calories": 30,
+        "result": 1200
+    },
+    {
+        "name": "Circuit",
+        "reps": 30,
+        "calories": 50,
+        "result": 1500
+    },
+    {
+        "name": "Compound",
+        "reps": 30,
+        "calories": 20,
+        "result": 600
+    },
+    {
+        "name": "Cool-Down",
+        "reps": 40,
+        "calories": 20,
+        "result": 800
+    },
+    {
+        "name": "Cross-Training",
+        "reps": 50,
+        "calories": 15,
+        "result": 750
+    },
+    {
+        "name": "Functional Moves",
+        "reps": 50,
+        "calories": 40,
+        "result": 2000
+    },
+    {
+        "name": "Heart Rate Zones",
+        "reps": 50,
+        "calories": 20,
+        "result": 1000
+    }
+]

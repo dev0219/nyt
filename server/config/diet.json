@@ -1,0 +1,62 @@
+[{
+        "name": "Apples",
+        "quantity": 5,
+        "calories": 20,
+        "result": 100
+    },
+    {
+        "name": "Avocados",
+        "quantity": 5,
+        "calories": 30,
+        "result": 150
+    },
+    {
+        "name": "Bananas",
+        "quantity": 3,
+        "calories": 70,
+        "result": 210
+    },
+    {
+        "name": "Blueberries",
+        "quantity": 4,
+        "calories": 60,
+        "result": 240
+    },
+    {
+        "name": "Oranges",
+        "quantity": 6,
+        "calories": 20,
+        "result": 120
+    },
+    {
+        "id": 6,
+        "name": "Strawberries",
+        "quantity": 10,
+        "calories": 15,
+        "result": 150
+    },
+    {
+        "name": "Eggs",
+        "quantity": 5,
+        "calories": 40,
+        "result": 200
+    },
+    {
+        "name": "Lean beef",
+        "quantity": 8,
+        "calories": 20,
+        "result": 160
+    },
+    {
+        "name": "hia seeds",
+        "quantity": 7,
+        "calories": 20,
+        "result": 140
+    },
+    {
+        "name": "Coconuts",
+        "quantity": 8,
+        "calories": 30,
+        "result": 240
+    }
+]
